@@ -354,7 +354,7 @@
             a.boton.color-primario(href="#top")
               i.fas.fa-chevron-circle-up
           .col-12.mt-5
-            p p Son aquellos recorridos que se realizan entre departamentos o para la repatriación de cuerpos por vía aérea o fluvial. Estos cuerpos deben ir debidamente preservados y embalados, según disposiciones de cada aerolínea. Lo normal es que el cuerpo esté dentro de dos cofres. El primer cofre es un contenedor que puede absorber derrame de líquidos, el cofre debe ir completamente sellado y hermético. El segundo cofre contiene el primer cofre y es más resistente.
+            p Son aquellos recorridos que se realizan entre departamentos o para la repatriación de cuerpos por vía aérea o fluvial. Estos cuerpos deben ir debidamente preservados y embalados, según disposiciones de cada aerolínea. Lo normal es que el cuerpo esté dentro de dos cofres. El primer cofre es un contenedor que puede absorber derrame de líquidos, el cofre debe ir completamente sellado y hermético. El segundo cofre contiene el primer cofre y es más resistente.
             p A continuación, se exponen los documentos requeridos para un traslado de larga distancia.
           .col-12.col-lg-6.mb-4.mb-lg-0
             ul.lista-ul.ms-4

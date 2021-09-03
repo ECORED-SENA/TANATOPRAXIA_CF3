@@ -36,7 +36,32 @@
             img(src='@/assets/curso/img23.svg', style="width: auto " ,alt='Texto que describa la imagen').m-auto
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p Ahora, comprendido qué es la bioseguridad, debe entender que los riesgos biológicos a los que está sometido un operario funerario son aquellos que pueden ingresar de manera dérmica, sanguínea, respiratoria o digestiva, pudiendo desencadenar enfermedades infectocontagiosas, intoxicaciones o alergias. Las enfermedades de riesgo biológico más asociadas a la manipulación de cadáveres son:
+            p.mb-4 Ahora, comprendido qué es la bioseguridad, debe entender que los riesgos biológicos a los que está sometido un operario funerario son aquellos que pueden ingresar de manera dérmica, sanguínea, respiratoria o digestiva, pudiendo desencadenar enfermedades infectocontagiosas, intoxicaciones o alergias. Las enfermedades de riesgo biológico más asociadas a la manipulación de cadáveres son:
+            ol.lista-ol--cuadro.ms-4
+              li 
+                .lista-ol--cuadro__vineta
+                  span 1
+                | Enfermedades respiratorias, como tuberculosis.
+              li 
+                .lista-ol--cuadro__vineta
+                  span 2
+                | Enfermedades gastrointestinales.
+              li 
+                .lista-ol--cuadro__vineta
+                  span 3
+                | Meningitis.
+              li 
+                .lista-ol--cuadro__vineta
+                  span 4
+                | Septicemia.
+              li 
+                .lista-ol--cuadro__vineta
+                  span 5
+                | Hepatitis B y C.
+              li 
+                .lista-ol--cuadro__vineta
+                  span 6
+                | VIH, entre otras.
     p En el traslado inicial es en el que se debe tener más precauciones, porque usualmente la ubicación de los restos mortales es en lugares donde existe mayor concentración de microorganismos o agentes patógenos que pueden afectar la salud. Estos entornos pueden ser: hospitales o clínicas, medicina legal, morgues, entre otros lugares. Si los familiares están presentes cuando el cuerpo se recoge, se les debe explicar el paso a paso y el porqué se pondrán los elementos de protección personal (EPP).
     p.mb-5 Pero, se ha preguntado ¿qué son los elementos de protección personal?, ¿qué elementos de protección personal conoce? Los elementos de protección personal (EPP), tal como su nombre lo dice, son elementos o equipamientos que se usan como barrera física para proteger a quien los usa de uno o varios factores de riesgo, y así evitar contacto directo con material orgánico o demás elementos que puedan causar daño. Estos elementos de protección personal ayudan a generar un ambiente seguro e higiénico, pues permiten minimizar el área expuesta de piel o mucosas que puede entrar en contacto cuando se realicen las manipulaciones con los cadáveres.
     .row.justify-content-center

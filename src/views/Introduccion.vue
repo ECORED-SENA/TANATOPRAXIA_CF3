@@ -13,14 +13,14 @@
       .row(titulo="¿Cómo surge este componente de formación?").align-items-center
         .col-4
           figure
-            img(src='@/assets/curso/img1.svg', style="width: auto" ,alt='Texto que describa la imagen').m-auto
+            img(src='@/assets/curso/img2.svg', style="width: auto" ,alt='Texto que describa la imagen').m-auto
         .col-8
           p.mb-0 Este momento surge desde la necesidad de identificar el proceso de traslado de unos restos mortales a partir de unos protocolos de servicio y una normativa.
       div(titulo="¿Qué se ha diseñado para aprender?")
         .row.align-items-center
           .col-4
             figure
-              img(src='@/assets/curso/img2.svg', style="width: auto" ,alt='Texto que describa la imagen').m-auto
+              img(src='@/assets/curso/img1.svg', style="width: auto" ,alt='Texto que describa la imagen').m-auto
           .col-8
             p Ante esta necesidad, se ha seleccionado y organizado un contenido temático pensado para usted. 
             p.mb-0 Su lectura y comprensión generará capacidades en usted para conocer, pensar, actuar ante el evento del traslado de unos restos mortales. Una experiencia que debe ser atendida con respeto por las creencias de quienes están involucrados.

@@ -76,12 +76,12 @@ export default {
       },
     ],
     subMenu: [
-      //{
-      //  nombreRuta: 'actividad',
-      //  icono: 'far fa-question-circle',
-      //  titulo: 'Actividad didáctica',
-      //  desarrolloContenidos: true,
-      //},
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -136,8 +136,6 @@ export default {
     {
       referencia:
         'Ministerio de la Protección Social. (2008). Requisitos para el transporte de cadáveres por vía aérea.',
-      link:
-        'https://www.aerocivil.gov.co/autoridad-de-la-aviacion-civil/certificacion-y-licenciamiento/Guia%20de%20Inspeccion%20y%20Boletines%20Tecnicos/Bolet%C3%ADn%20Min.%20Prot.%20Social%20transp.%20cad%C3%A1veres.pdf',
     },
     {
       referencia:
@@ -171,8 +169,7 @@ export default {
       texto:
         'Ministerio de la Protección Social. (2008). Requisitos para el transporte de cadáveres por vía aérea.',
       tipo: 'PDF',
-      link:
-        'https://www.aerocivil.gov.co/autoridad-de-la-aviacion-civil/certificacion-y-licenciamiento/Guia%20de%20Inspeccion%20y%20Boletines%20Tecnicos/Bolet%C3%ADn%20Min.%20Prot.%20Social%20transp.%20cad%C3%A1veres.pdf',
+      descarga: 'downloads/Anexo1.pdf',
     },
     {
       texto:
@@ -279,7 +276,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
