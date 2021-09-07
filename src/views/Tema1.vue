@@ -256,7 +256,14 @@
                   p.mb-0 Nota: en caso de muerte natural, y que el documento de defunción lo valide, este documento no se requiere.
               .row(numero="4" titulo="Orden de servicio")
                 .col-12
-                  p Es el documento interno que cada funeraria maneja. En este se debe especificar fecha, número de factura o identificación interna. Este documento puede contener la siguiente información:
+                  p.mb-4 Es el documento interno que cada funeraria maneja. En este se debe especificar fecha, número de factura o identificación interna. Este documento puede contener la siguiente información:
+                  figure.mb-4
+                    img(src='@/assets/curso/img29.svg', style="width: auto" ,alt='Texto que describa la imagen').m-auto
+                  a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo2.pdf')" target="_blank")
+                    .anexo__icono
+                      img(src="@/assets/template/icono-pdf.svg")
+                    .anexo__texto
+                      p #[b Anexo]. Orden de servicios funerarios
           .col-lg-6
             figure(data-aos="fade-left")
               img(src='@/assets/curso/img13.svg', style="width: auto" ,alt='Texto que describa la imagen').m-auto
