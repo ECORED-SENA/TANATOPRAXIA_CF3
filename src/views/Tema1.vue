@@ -30,9 +30,8 @@
         .col-lg-6
           figure(data-aos="fade-left")
             img(src='@/assets/curso/img7.svg', style="width: auto " ,alt='Texto que describa la imagen').m-auto
-    .cajon.color-primario.p-4
+    .cajon.color-primario.p-4.mb-5
         p Durante cualquiera de estas tres etapas en las que se realiza el traslado, se deben tener presentes las implicaciones, no solo a nivel ético y de respeto por el fallecido y la familia, sino también en cuanto a las acciones que realiza el personal operativo y los riesgos que se pueden presentar en el accionar de su labor. Por tanto, este apartado del contenido de formación hará una aproximación a algunas de las pautas a tener en cuenta para los traslados inicial, intermedio y final en la prestación del servicio funerario.
-    separador.mb-5
     #t_1_1
     .titulo-segundo
       h2 1.1. Elección de un carro fúnebre

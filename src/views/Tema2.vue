@@ -13,8 +13,7 @@
         img(src="@/assets/curso/img10.png", style="width: 600px")
       .col-lg-6
         img(src="@/assets/curso/img11.png", style="width: 550px")
-    p.mt-5 Con la intención de que usted tenga más elementos conceptuales para justificar la tipología de riesgos que se presentan durante un traslado de riesgos mortales, se invita a continuar con su lectura de estos ¿Qué espera para seguir desarrollando su aprendizaje?
-    separador.mt-5
+    p.my-5 Con la intención de que usted tenga más elementos conceptuales para justificar la tipología de riesgos que se presentan durante un traslado de riesgos mortales, se invita a continuar con su lectura de estos ¿Qué espera para seguir desarrollando su aprendizaje?
     #t_2_1
     .titulo-segundo
       h2 2.1 Riesgo biológico
