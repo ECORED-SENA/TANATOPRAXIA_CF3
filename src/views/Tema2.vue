@@ -70,7 +70,7 @@
     p.mb-5 Los elementos de protección atienden las necesidades de defensa a nivel cutáneo, ocular, respiratorio y digestivo, por vías de transmisión como son el contacto, las gotas o los aerosoles. A continuación, observe el siguiente recurso educativo que contiene información con respecto a las barreras de protección para el sector funerario:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/yCWPTySCexM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.justify-content-center
       .col-lg-10
         p Luego de haber identificado algunos elementos de protección, es importante adicionar al uso de estos la limpieza de las manos, ya que son una parte del cuerpo del funcionario necesaria para la manipulación del cadáver, y una vez finalice esta función, se recomienda un lavado de manos. 
