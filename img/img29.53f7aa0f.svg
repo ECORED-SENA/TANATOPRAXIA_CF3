@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="847" height="409" viewBox="0 0 847 409">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.25" stop-color="#f5f5f5"/>
+      <stop offset="1" stop-color="#e6eded"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_34172" data-name="Rectángulo 34172" width="818" height="383" transform="translate(391 9550)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_34151" data-name="Rectángulo 34151" width="817.516" height="231.806" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_34150" data-name="Rectángulo 34150" width="855.367" height="245.403" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_107086" data-name="Grupo 107086" transform="translate(-370 -9540)">
+    <rect id="Rectángulo_34175" data-name="Rectángulo 34175" width="847" height="409" transform="translate(370 9540)" fill="url(#linear-gradient)"/>
+    <g id="Enmascarar_grupo_123" data-name="Enmascarar grupo 123" transform="translate(-7 3)" clip-path="url(#clip-path)">
+      <g id="Grupo_107070" data-name="Grupo 107070" transform="translate(391.172 9492)">
+        <rect id="Rectángulo_34149" data-name="Rectángulo 34149" width="817.516" height="824.422" fill="#fff"/>
+        <g id="Grupo_107069" data-name="Grupo 107069">
+          <g id="Grupo_107068" data-name="Grupo 107068" clip-path="url(#clip-path-2)">
+            <path id="Path_151634" data-name="Path 151634" d="M270.625,233C418.982,155.03,582.6,110.223,748.111,164.107c328.326,106.893,327.963,83.281,327.963,83.281V-218.517H-12.582v512.3S101.666,321.792,270.625,233Z" transform="translate(-4.225 -73.38)" fill="#00978e"/>
+            <g id="Grupo_107067" data-name="Grupo 107067" transform="translate(-32.215 -13.597)">
+              <g id="Grupo_107066" data-name="Grupo 107066" clip-path="url(#clip-path-3)">
+                <g id="Mask_Group_119" data-name="Mask Group 119" transform="translate(-115.873 -259.096)" opacity="0.15">
+                  <path id="Path_151635" data-name="Path 151635" d="M209.888,167.385C377.913,107.327,563.215,72.812,750.67,114.32c371.847,82.338,371.437,64.152,371.437,64.152V-204.14H-110.86V214.205S18.533,235.784,209.888,167.385Z" transform="translate(110.86 204.14)" fill="#d1ebea"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <rect id="Rectángulo_34152" data-name="Rectángulo 34152" width="99.446" height="543.083" transform="translate(48.369 244.901)" fill="#f2f2f2"/>
+        <rect id="Rectángulo_34153" data-name="Rectángulo 34153" width="622.336" height="543.083" transform="translate(147.815 244.901)" fill="#e6e6e6"/>
+        <text id="Fecha:_Director_de_servicio:_Número_de_factura:_" data-name="Fecha:            
+Director de servicio:
+Número de factura:
+" transform="translate(170.916 267.571)" fill="#12263f" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="11" xml:space="preserve">Fecha:            </tspan><tspan x="0" y="25.4">Director de servicio:</tspan><tspan x="0" y="39.8">Número de factura:</tspan><tspan font-family="Roboto-Regular"><tspan x="0" y="54.2"></tspan></tspan></text>
+        <text id="Traslado_inicial_" data-name="Traslado
+inicial
+
+" transform="translate(65.288 521.485)" fill="#12263f" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="11">Traslado</tspan><tspan x="0" y="25.4">inicial</tspan><tspan x="0" y="39.8"></tspan></text>
+        <text id="Gestionador_del_servicio:_Teléfono:_" data-name="Gestionador del servicio:
+Teléfono: 
+
+" transform="translate(170.916 430.047)" fill="#12263f" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="11">Gestionador del servicio:</tspan><tspan x="0" y="25.4">Teléfono: </tspan><tspan x="0" y="39.8"></tspan><tspan font-family="Roboto-Regular"><tspan x="0" y="54.2"></tspan></tspan></text>
+        <text id="Ubicación_del_fallecido:_Casa:____Hospital:____Medicina_legal:____Otros:____" data-name="Ubicación del fallecido: 
+Casa:___                         Hospital:___                      Medicina legal:___           Otros:___
+" transform="translate(170.916 495.411)" fill="#12263f" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="11">Ubicación del fallecido: </tspan><tspan x="0" y="25.4" xml:space="preserve">Casa:___                         Hospital:___                      Medicina legal:___           Otros:___</tspan><tspan font-family="Roboto-Regular"><tspan x="0" y="39.8"></tspan></tspan></text>
+        <text id="Responsables_de_recoger_el_cuerpo:_" data-name="Responsables de recoger el cuerpo:
+" transform="translate(170.916 568.244)" fill="#12263f" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="11">Responsables de recoger el cuerpo:</tspan><tspan font-family="Roboto-Regular"><tspan x="0" y="25.4"></tspan></tspan></text>
+        <text id="Certificado_de_defunción:_SI_______NO______Orden_de_cremación:_SI:_____NO_____" data-name="Certificado de defunción:   SI _____  NO ____   
+Orden de cremación: SI:____  NO____   " transform="translate(170.916 642.48)" fill="#12263f" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="11" xml:space="preserve">Certificado de defunción:   SI _____  NO ____   </tspan><tspan x="0" y="25.4" xml:space="preserve">Orden de cremación: SI:____  NO____   </tspan></text>
+        <text id="Requerimientos_estéticos_de_la_familia:_En_esta_casilla_por_favor_diligencia_si_se_afeita_el_cuerpo_si_tiene_algún_maquillaje_o_cuidado_estético_específico_" data-name="Requerimientos estéticos de la familia:
+(En esta casilla por favor diligencia si se afeita el cuerpo, si tiene algún maquillaje o cuidado estético específico)" transform="translate(170.916 716.714)" fill="#12263f" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="11">Requerimientos estéticos de la familia:</tspan><tspan font-size="10"><tspan x="0" y="25.4">(En esta casilla por favor diligencia si se afeita el cuerpo, si tiene algún maquillaje o cuidado estético específico)</tspan></tspan></text>
+        <text id="Nombre_y_Apellidos_del_fallecido:_" data-name="Nombre y Apellidos del fallecido: 
+" transform="translate(170.916 362.815)" fill="#12263f" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="11">Nombre y Apellidos del fallecido: </tspan><tspan font-family="Roboto-Regular"><tspan x="0" y="25.4"></tspan></tspan></text>
+        <line id="Línea_1694" data-name="Línea 1694" x2="567.264" transform="translate(168.825 345.748)" fill="none" stroke="gray" stroke-miterlimit="10" stroke-width="0.5"/>
+        <line id="Línea_1695" data-name="Línea 1695" x2="567.264" transform="translate(168.825 417.863)" fill="none" stroke="gray" stroke-miterlimit="10" stroke-width="0.5"/>
+        <line id="Línea_1696" data-name="Línea 1696" x2="567.264" transform="translate(179.097 489.548)" fill="none" stroke="gray" stroke-miterlimit="10" stroke-width="0.5"/>
+        <line id="Línea_1697" data-name="Línea 1697" x2="567.264" transform="translate(179.097 554.912)" fill="none" stroke="gray" stroke-miterlimit="10" stroke-width="0.5"/>
+        <line id="Línea_1698" data-name="Línea 1698" x2="567.264" transform="translate(168.825 629.147)" fill="none" stroke="gray" stroke-miterlimit="10" stroke-width="0.5"/>
+        <line id="Línea_1699" data-name="Línea 1699" x2="567.264" transform="translate(168.825 703.381)" fill="none" stroke="gray" stroke-miterlimit="10" stroke-width="0.5"/>
+        <text id="ORDEN_DE_SERVICIOS_FUNERARIOS_" data-name="ORDEN DE SERVICIOS FUNERARIOS " transform="translate(372.61 180.067)" fill="#12263f" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">ORDEN DE SERVICIOS FUNERARIOS </tspan></text>
+        <circle id="Elipse_4303" data-name="Elipse 4303" cx="71.343" cy="71.343" r="71.343" transform="translate(61.696 37.762)" fill="#fff"/>
+        <path id="Trazado_151844" data-name="Trazado 151844" d="M111.6,75.192h9.313V68.983H111.6V59.67h-6.209v9.313H96.075v6.209h9.313V90.436a68.3,68.3,0,0,0-34.36,10.91l1.7,2.6a66.235,66.235,0,0,1,71.531,0l1.7-2.6A68.3,68.3,0,0,0,111.6,90.436Zm-1.552-34.15h-3.1v9.313h3.1ZM99.333,51.7l-3.186-8.751-2.916,1.062,3.185,8.751ZM89.725,56.62,83.74,49.486l-2.379,2,5.986,7.135Zm-7.344,7.912-8.067-4.655-1.55,2.689,8.064,4.657Zm-4.194,9.949-9.173-1.618-.538,3.059,9.172,1.615Zm-.54,10.783-9.173,1.618.541,3.056,9.172-1.619ZM138.8,88.322l9.173,1.619.536-3.058-9.172-1.618Zm.54-10.781,9.173-1.618-.541-3.058L138.8,74.483Zm-3.182-10.318,8.067-4.657-1.555-2.688L134.6,64.535Zm-.529-15.74-2.382-2-5.986,7.136,2.379,1.994Zm-11.87-7.477-2.919-1.061L117.651,51.7l2.917,1.059ZM79.119,111.379l1.924,2.437a44.594,44.594,0,0,1,55.078-.243l1.9-2.454A47.691,47.691,0,0,0,79.119,111.379Zm29.181-.488a21.265,21.265,0,0,0-15.887,7.14l2.322,2.061a18.141,18.141,0,0,1,27.132,0l2.322-2.061A21.27,21.27,0,0,0,108.3,110.892Z" transform="translate(22.403 18.578)" fill="#333f4f"/>
+        <text id="F_U_N_E_R_A_R_I_A" data-name="F U N E R A R I A" transform="translate(97.896 158.567)" fill="#333f4f" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">F U N E R A R I A</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_107085" data-name="Grupo 107085" transform="translate(773.38 9725.695)">
+      <g id="Grupo_107084" data-name="Grupo 107084" transform="translate(0.016 -0.001)">
+        <path id="Trazado_151848" data-name="Trazado 151848" d="M8.614,50.185a29.4,29.4,0,0,0,34.942,4.994,3.685,3.685,0,0,0,4.3-.667l6.674-6.674a3.684,3.684,0,0,0,.667-4.3A29.41,29.41,0,1,0,8.614,50.185Zm4.952-36.637a22.4,22.4,0,1,1,0,31.685A22.43,22.43,0,0,1,13.565,13.548Z" transform="translate(-0.016 0.001)" fill="#12263f"/>
+        <path id="Trazado_151849" data-name="Trazado 151849" d="M295.118,289.649a.35.35,0,0,0,0-.5l-1.485-1.486a.35.35,0,0,0-.5,0l-5.446,5.447a.35.35,0,0,0,0,.495l1.485,1.485a.35.35,0,0,0,.495,0l5.446-5.446Z" transform="translate(-237.259 -237.236)" fill="#12263f"/>
+        <path id="Trazado_151850" data-name="Trazado 151850" d="M301.793,309.7a1.4,1.4,0,0,0,0,1.982l24.4,24.393a7,7,0,0,0,10.12-9.679c-.066-.068,1.555,1.555-24.613-24.617a1.4,1.4,0,0,0-1.981,0Z" transform="translate(-248.639 -248.623)" fill="#12263f"/>
+      </g>
+      <rect id="Rectángulo_34173" data-name="Rectángulo 34173" width="23.978" height="5.526" rx="2.763" transform="translate(32.075 16.967) rotate(90)" fill="#12263f"/>
+      <rect id="Rectángulo_34174" data-name="Rectángulo 34174" width="23.978" height="5.526" rx="2.763" transform="translate(41.409 31.719) rotate(180)" fill="#12263f"/>
+    </g>
+  </g>
+</svg>
